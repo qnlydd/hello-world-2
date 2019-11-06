@@ -1,2 +1,3 @@
 # hello-world-2
-beginner's guide
+按照教程学习github的使用方法；
+希望能够较快掌握这个平台的使用方法以便快捷工作和学习。
